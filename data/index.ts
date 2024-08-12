@@ -107,33 +107,27 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I love the work of Areeba. Her creativity is on another level. 💯% recommended",
+    name: "Jawaid Ahmad",
+    title: "Wonder Works Founder",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I just wanted to say a huge thank you for revamping my profile! I absolutely love the new design - it’s modern, sleek, and perfectly captures my brand’s essence. Your creativity and attention to detail are truly impressive!You’ve got a keen eye for design, and I’m so grateful to have had the opportunity to work with you.",
+    name: "Jawaid Ahmad",
+    title: "Wonder Works Founder",
+  },
+{
+    quote:
+      "I love the work of Areeba. Her creativity is on another level. 💯% recommended",
+    name: "Jawaid Ahmad",
+    title: "Wonder Works Founder",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I just wanted to say a huge thank you for revamping my profile! I absolutely love the new design - it’s modern, sleek, and perfectly captures my brand’s essence. Your creativity and attention to detail are truly impressive!You’ve got a keen eye for design, and I’m so grateful to have had the opportunity to work with you.",
+    name: "Jawaid Ahmad",
+    title: "Wonder Works Founder",
   },
 ];
 
