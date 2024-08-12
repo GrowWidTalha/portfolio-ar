@@ -204,14 +204,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    img: "/behance.svg",
+    href: "https://www.behance.net/Areeba_the_designer/projects"
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/linkedin.svg",
+    href: "https://www.linkedin.com/in/areeba-memon-890275302?"
   },
 ];
