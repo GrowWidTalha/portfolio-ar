@@ -182,8 +182,7 @@ export const workExperience = [
   {
     id: 3,
     title: "Company Banner - Prime it Hub",
-    desc: "Designed company banners for Prime it Hub company page.
-",
+    desc: "Designed company banners for Prime it Hub company page.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
