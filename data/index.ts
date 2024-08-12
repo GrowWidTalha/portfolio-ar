@@ -206,5 +206,5 @@ export const socialMedia = [
     id: 3,
     img: "/link.svg",
     href: "https://www.linkedin.com/in/areeba-memon-890275302?"
-  },
+  }
 ];
