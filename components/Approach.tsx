@@ -13,7 +13,7 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
+          title="Discovery & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
           des="We'll collaborate to define your brand's vision, target audience, 
   and key design elements. We'll discuss your brand's personality, color palettes, 
@@ -26,7 +26,7 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Design & Concept Development"
           icon={<AceternityIcon order="Phase 2" />}
           des="Once we have a clear strategy, I start sketching ideas and creating 
   initial design concepts. From mood boards to detailed mockups, you'll be 
@@ -48,7 +48,7 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Finalization & Delivery"
           icon={<AceternityIcon order="Phase 3" />}
           des="This is where the design comes to life! Based on the approved concepts, 
   I'll finalize the designs, preparing them for delivery. Whether it's a logo, 
