@@ -91,7 +91,8 @@ export const projects = [
     id: 3,
     title: "Social Media Post Designs",
     des: "Create eye-catching and engaging social media post designs, optimized for various platforms and target audiences.",
-    img: "/ar-pr-3.jpeg",
+    img: "/ar-pr-3.jpg",
+    
 
      iconLists: ["/photoshop.png", "/illustrator.png", "/canva.svg"],
     link: "/ui.aiimg.com",
